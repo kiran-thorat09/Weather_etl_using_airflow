@@ -1,11 +1,11 @@
-📘 GraphRAG with FalkorDB
-📌 Overview
+#📘 GraphRAG with FalkorDB
+##📌 Overview
 
 This project implements a Graph-based Retrieval-Augmented Generation (GraphRAG) pipeline that processes PDF documents, extracts structured knowledge (entities and relationships), and stores it in a graph database (FalkorDB).
 
 The system enables querying this graph to retrieve relevant context and generate answers using a language model.
 
-🧠 Key Idea
+##🧠 Key Idea
 
 Instead of relying on traditional vector-based retrieval, this project:
 
@@ -15,7 +15,7 @@ Uses the graph structure for context retrieval
 Generates answers based on structured context
 
 
-🏗️ Project Structure
+##🏗️ Project Structure
 GraphRAG_AWS/
 │
 ├── data/
